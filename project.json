@@ -1,0 +1,7 @@
+{
+  "dna_is_targeted": false,
+  "germ_dna.1.fastq.gz": "input/small_ena/SRR957824_500K_R1.fastq.gz",
+  "germ_dna.2.fastq.gz": "input/small_ena/SRR957824_500K_R2.fastq.gz",
+  "n_job": 8,
+  "gb_memory": 48
+}

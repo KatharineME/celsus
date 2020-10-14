@@ -8,14 +8,16 @@ TNBC accounts for 15% of all breast cancers. TNBC is more common in women who ar
 
 ## Data Gathered
 
-Name          | Year          | Ethnicity              | Feature       | # Sample           | 
-------------- | ------------- | ---------------------- | ------------- | ------------------ | 
-GSE86946      | 2016          | Mexican                | RNA           | 158                |       
-GSE46581      | 2013          | European and African   | RNA           | 90                 |
-GSE118389     | 2018          | Unknown, American      | SC RNA        | 1534 from 6 tumors |
-GSE118527     | 2018          | Chinese                | RNA & DNA     | 465 total, 360 RNA |
-GSE41970      | 2012          | American (OSU Archive) | RNA           | 165                | 
-GSE76275      | 2015          | American, Texas        | RNA & DNA     | 198                | 
+Name          | Year          | Ethnicity / Origin        | Feature       | # Sample           | 
+------------- | ------------- | ------------------------- | ------------- | ------------------ | 
+GSE86946      | 2016          | Mexican                   | RNA           | 158                |       
+GSE46581      | 2013          | European and African      | RNA           | 90                 |
+GSE118389     | 2018          | American                  | SC RNA        | 1534 from 6 tumors |
+GSE118527     | 2018          | Chinese                   | RNA & DNA     | 465 total, 360 RNA |
+GSE41970      | 2012          | American (OSU Archive)    | RNA           | 165                | 
+GSE76275      | 2015          | American, Texas           | RNA & DNA     | 198                | 
+GSE142102     | 2019          | African-American, Detriot | RNA & DNA     | 226                | 
+GSE103091     | 2017          | French                    | RNA           | 107                | 
 
 
 <br><br>

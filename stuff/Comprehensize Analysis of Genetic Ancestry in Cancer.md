@@ -2,7 +2,7 @@
 https://www.cell.com/cancer-cell/pdf/S1535-6108(20)30211-7.pdf
 
 ## Data
-- 10 individuals in dataset, 8.8K were EUR, 669 EAS, 651 were AFR, 454 were admixed, 41 were hispanic /Latin
+- 10K individuals in dataset, 8.8K were EUR, 669 EAS, 651 were AFR, 454 were admixed, 41 were hispanic /Latin
 - 33 cancer type, 13 of which divided into subtypes
 
 ## Notable Points

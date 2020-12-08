@@ -1,7 +1,6 @@
 {
-  "dna_is_targeted": false,
-  "germ_dna.1.fastq.gz": "input/small_ena/SRR957824_500K_R1.fastq.gz",
-  "germ_dna.2.fastq.gz": "input/small_ena/SRR957824_500K_R2.fastq.gz",
-  "n_job": 8,
-  "gb_memory": 48
+  "gene": ["SOX9", "ZEB1", "E2F1", "E2F2", "E2F3", "E2F4"],
+  "gene_set": ["iwanaga_e2f_targets_induced_by_serum", "e2f_q4", "myc_up.v1_up", "schlosser_myc_and_serum_response_synergy"],
+  "n_job": 2,
+  "gb_memory": 5
 }
